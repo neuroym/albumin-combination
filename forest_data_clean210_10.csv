@@ -1,0 +1,84 @@
+Variable,Subgroup,Treatment,Point Estimate,P for interaction,HR,Lower,Upper,HR(95%CI)
+Overall,,Crystalloids alone,1,NA,1,NA,NA,1
+,,Early combination,1.16(0.76-1.75),NA,1.16,0.76,1.75,1.16(0.76-1.75)
+,,Non-early combination,1.88(1.23-2.86),NA,1.88,1.23,2.86,1.88(1.23-2.86)
+Age,,,,0.719,,,,
+ <=70.5,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.27(0.69-2.33),,1.27,0.69,2.33,1.27(0.69-2.33)
+,,Non-early combination,1.70(0.97-2.98),,1.7,0.97,2.98,1.70(0.97-2.98)
+ >70.5,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.10(0.62-1.94),,1.1,0.62,1.94,1.10(0.62-1.94)
+,,Non-early combination,2.15(1.12-4.11),,2.15,1.12,4.11,2.15(1.12-4.11)
+Gender,,,,0.442,,,,
+ Female,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,0.94(0.50-1.77),,0.94,0.5,1.77,0.94(0.50-1.77)
+,,Non-early combination,1.35(0.70-2.59),,1.35,0.7,2.59,1.35(0.70-2.59)
+ Male,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.32(0.76-2.29),,1.32,0.76,2.29,1.32(0.76-2.29)
+,,Non-early combination,2.47(1.42-4.32),,2.47,1.42,4.32,2.47(1.42-4.32)
+MAP,,,,0.044,,,,
+ <=80.16,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.92(1.10-3.33),,1.92,1.1,3.33,1.92(1.10-3.33)
+,,Non-early combination,3.28(1.77-6.05),,3.28,1.77,6.05,3.28(1.77-6.05)
+ >80.16,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,0.67(0.29-1.54),,0.67,0.29,1.54,0.67(0.29-1.54)
+,,Non-early combination,1.28(0.68-2.39),,1.28,0.68,2.39,1.28(0.68-2.39)
+Chronic pulmonary disease,,,,0.914,,,,
+ No,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.16(0.72-1.87),,1.16,0.72,1.87,1.16(0.72-1.87)
+,,Non-early combination,2.17(1.31-3.60),,2.17,1.31,3.6,2.17(1.31-3.60)
+ Yes,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.26(0.53-2.98),,1.26,0.53,2.98,1.26(0.53-2.98)
+,,Non-early combination,1.78(0.79-3.98),,1.78,0.79,3.98,1.78(0.79-3.98)
+Chronic kidney disease,,,,0.619,,,,
+ No,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.02(0.59-1.73),,1.02,0.59,1.73,1.02(0.59-1.73)
+,,Non-early combination,1.70(1.04-2.80),,1.7,1.04,2.8,1.70(1.04-2.80)
+ Yes,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.30(0.64-2.63),,1.3,0.64,2.63,1.30(0.64-2.63)
+,,Non-early combination,2.74(1.19-6.29),,2.74,1.19,6.29,2.74(1.19-6.29)
+Congestive heart failure,,,,0.166,,,,
+ No,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,0.91(0.52-1.58),,0.91,0.52,1.58,0.91(0.52-1.58)
+,,Non-early combination,1.69(1.01-2.83),,1.69,1.01,2.83,1.69(1.01-2.83)
+ Yes,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.78(0.93-3.39),,1.78,0.93,3.39,1.78(0.93-3.39)
+,,Non-early combination,2.44(1.16-5.15),,2.44,1.16,5.15,2.44(1.16-5.15)
+ RRT,,,,0.094,,,,
+ No,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.03(0.65-1.62),,1.03,0.65,1.62,1.03(0.65-1.62)
+,,Non-early combination,1.76(1.09-2.83),,1.76,1.09,2.83,1.76(1.09-2.83)
+ Yes,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,3.87(0.99-15.14),,3.87,0.99,15.14,3.87(0.99-15.14)
+,,Non-early combination,4.84(1.25-18.72),,4.84,1.25,18.72,4.84(1.25-18.72)
+Lactate,,,,0.897,,,,
+ <=3.1,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.10(0.54-2.26),,1.1,0.54,2.26,1.10(0.54-2.26)
+,,Non-early combination,2.05(1.13-3.71),,2.05,1.13,3.71,2.05(1.13-3.71)
+ >3.1,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.15(0.66-1.99),,1.15,0.66,1.99,1.15(0.66-1.99)
+,,Non-early combination,1.86(1.00-3.47),,1.86,1,3.47,1.86(1.00-3.47)
+SOFA,,,,0.212,,,,
+ <=3,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,0.94(0.53-1.65),,0.94,0.53,1.65,0.94(0.53-1.65)
+,,Non-early combination,1.90(1.13-3.21),,1.9,1.13,3.21,1.90(1.13-3.21)
+ >3,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.61(0.85-3.06),,1.61,0.85,3.06,1.61(0.85-3.06)
+,,Non-early combination,1.93(0.94-3.99),,1.93,0.94,3.99,1.93(0.94-3.99)
+Vasopressor,,,,0.658,,,,
+ After 24 hours,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.02(0.25-4.21),,1.02,0.25,4.21,1.02(0.25-4.21)
+,,Non-early combination,1.18(0.33-4.21),,1.18,0.33,4.21,1.18(0.33-4.21)
+ None,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,0.99(0.60-1.65),,0.99,0.6,1.65,0.99(0.60-1.65)
+,,Non-early combination,1.57(0.88-2.78),,1.57,0.88,2.78,1.57(0.88-2.78)
+ Within 24 hours,,Crystalloids alone,1,NA,1,NA,NA,1
+,,Early combination,1.08(0.35-3.32),NA,1.08,0.35,3.32,1.08(0.35-3.32)
+,,Non-early combination,2.42(0.79-7.43),,2.42,0.79,7.43,2.42(0.79-7.43)
+Timing of antibiotic,,,,0.111,,,,
+ After 24 hours,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,0.82(0.44-1.52),,0.82,0.44,1.52,0.82(0.44-1.52)
+,,Non-early combination,2.38(1.28-4.45),,2.38,1.28,4.45,2.38(1.28-4.45)
+Within 24 hours,,Crystalloids alone,1,,1,NA,NA,1
+,,Early combination,1.64(0.93-2.90),,1.64,0.93,2.9,1.64(0.93-2.90)
+,,Non-early combination,1.51(0.85-2.71),,1.51,0.85,2.71,1.51(0.85-2.71)
